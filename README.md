@@ -36,10 +36,6 @@ Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTM
 
 ---
 
-<div align="center">
-  <img src="espanol-banner.png" alt="Banner" width="35%"/>
-</div>
-
 
 ## Contribuciones 🤝
 
