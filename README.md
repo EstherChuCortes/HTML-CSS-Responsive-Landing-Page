@@ -48,8 +48,9 @@ Este proyecto presenta un ejemplo de una landing responsive desarrollado con HTM
 
 ## Trabajo Freelance 💼
 
-Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en estherchu13@hotmail.com
+Estoy disponible para trabajar en proyectos de diseño web, ya sea para particulares o empresas. Si necesitas ayuda con el diseño de tu sitio web o tienes algún proyecto en mente, ¡no dudes en contactarme en
 <br>
+[@BarrioCort7876](https://www.twitter.com/BarrioCort7876)
 
 
 ## Licencia 📜
