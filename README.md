@@ -9,7 +9,20 @@
 
 <div align="center">
   <img src="layout.png" alt="Layout" width="55%"/>
+   
 </div>
+<div align="center">
+   <a href="https://github.com/EstherChuCortes/HTML-CSS-Responsive-Landing-Page" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=VER CODIGO&color=f&style=plastic&logo=github&logo-color=white"/>
+   </a>
+   <a href="https://estherchucortes.github.io/HTML-CSS-Responsive-Landing-Page/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>  
+</div>
+
+   
+   
+
 
 
 ---
